@@ -1,0 +1,14 @@
+
+
+
+#ifndef UART_SERVICE_PRIVATE_H_
+#define UART_SERVICE_PRIVATE_H_
+
+
+#define  UART_PARITY_EVEN  1
+#define  UART_PARITY_ODD   0
+#define  UART_NOPARITY     2
+
+
+
+#endif /* UART_SERVICE_PRIVATE_H_ */
